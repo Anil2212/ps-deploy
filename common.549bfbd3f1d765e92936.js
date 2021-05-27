@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{uiMJ:function(t,n,o){"use strict";o.d(n,"a",function(){return c});var r=o("fXoL"),e=o("tk/3");let c=(()=>{class t{constructor(t){this.http=t}get(t){return this.http.get(t)}}return t.\u0275fac=function(n){return new(n||t)(r.Rb(e.a))},t.\u0275prov=r.Eb({token:t,factory:t.\u0275fac,providedIn:"root"}),t})()}}]);
